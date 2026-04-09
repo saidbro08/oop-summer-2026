@@ -3,3 +3,4 @@ class MyClass:
 
 class_a = MyClass()
 print(class_a.students)
+
