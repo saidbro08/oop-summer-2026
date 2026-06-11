@@ -13,3 +13,5 @@ f = 3.5
 a = int(f) 
 print(a) 
 print(type(a))
+
+

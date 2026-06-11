@@ -6,5 +6,6 @@ class House:
 
         
 h1 = House(500,10000,5)
-print(h1.size, h1.price, h1.floors)
+print(h1.size,h1.price,h1.floors)
+
 
